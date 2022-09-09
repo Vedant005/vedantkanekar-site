@@ -169,15 +169,11 @@ hr {
     padding-bottom: 6rem;
 }
 
-.Developing {
-    padding: 2rem;
-    padding-top: 5rem;
 
-}
 
 .Developing .Developing-img {
-    max-width: 50%;
-    width: 100px;
+    
+    width: 10px;
     display: block;
     margin: auto;
 }
