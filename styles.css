@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200&display=swap');
 :root {
     --primary-color: #1e3a8a;
     --off-white: #F3F4F6;
@@ -45,6 +44,7 @@ hr {
     display: block;
     max-width: 140px;
     margin: 1rem 1rem 1rem 0rem;
+    text-align: center;
 }
 
 .link-secondary {
@@ -54,6 +54,7 @@ hr {
     display: block;
     max-width: 140px;
     margin: 1rem 1rem 1rem 0rem;
+    text-align: center;
 }
 
 /** look into BEM naming convention for CSS **/
@@ -166,4 +167,27 @@ hr {
 /** blogs **/
 .showcase-blog {
     padding-bottom: 6rem;
+}
+
+.Developing {
+    padding: 2rem;
+    padding-top: 5rem;
+
+}
+
+.Developing .Developing-img {
+    max-width: 80%;
+    width: 350px;
+    display: block;
+    margin: auto;
+}
+
+.Developing .Developing-heading {
+    text-align: center;
+    padding-top: 1rem;
+    color: var(--dark-gray);
+}
+
+.Developing .Developing-heading .heading-inverted {
+    color: var(--primary-color);
 }
