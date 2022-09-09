@@ -171,25 +171,25 @@ hr {
 
 
 
-.Developing{
+.programming{
     padding: 2rem;
     padding-top: 5rem;
 
 }
 
-.Developing.Developing-img {
+.programming.programming-img {
     max-width: 80%;
     width: 350px;
     display: block;
     margin: auto;
 }
 
-.Developing.Developing-heading {
+.programming.programming-heading {
     text-align: center;
     padding-top: 1rem;
     color: var(--dark-gray);
 }
 
-.Developing.Developing-heading .heading-inverted {
+.programming.programming-heading .heading-inverted {
     color: var(--primary-color);
 }
