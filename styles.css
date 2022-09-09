@@ -97,26 +97,26 @@ hr {
 
 /** header **/
 
-.hero {
+.programming {
     padding: 2rem;
     padding-top: 5rem;
 
 }
 
-.hero .hero-img {
+.programming .programming-img {
     max-width: 80%;
     width: 350px;
     display: block;
     margin: auto;
 }
 
-.hero .hero-heading {
+.programming .programming-heading {
     text-align: center;
     padding-top: 1rem;
     color: var(--dark-gray);
 }
 
-.hero .hero-heading .heading-inverted {
+.programming .programming-heading .heading-inverted {
     color: var(--primary-color);
 }
 
