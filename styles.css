@@ -98,26 +98,26 @@ hr {
 
 /** header **/
 
-.programming {
+.sssssssssssssssssssssssssssssssssssssssssssssssssssssssssss {
     padding: 2rem;
     padding-top: 5rem;
 
 }
 
-.programming .programming-img {
+.sssssssssssssssssssssssssssssssssssssssssssssssssssssssssss .sssssssssssssssssssssssssssssssssssssssssssssssssssssssssss-img {
     max-width: 80%;
     width: 350px;
     display: block;
     margin: auto;
 }
 
-.programming .programming-heading {
+.sssssssssssssssssssssssssssssssssssssssssssssssssssssssssss .sssssssssssssssssssssssssssssssssssssssssssssssssssssssssss-heading {
     text-align: center;
     padding-top: 1rem;
     color: var(--dark-gray);
 }
 
-.programming .programming-heading .heading-inverted {
+.sssssssssssssssssssssssssssssssssssssssssssssssssssssssssss .sssssssssssssssssssssssssssssssssssssssssssssssssssssssssss-heading .heading-inverted {
     color: var(--primary-color);
 }
 
@@ -171,24 +171,25 @@ hr {
 
 
 
-.Developing {
+.Developing{
     padding: 2rem;
     padding-top: 5rem;
 
 }
 
-.Developing .Developing-img {
+.Developing.Developing-img {
     max-width: 80%;
     width: 350px;
     display: block;
     margin: auto;
 }
-.Developing .Developing-heading {
+
+.Developing.Developing-heading {
     text-align: center;
     padding-top: 1rem;
     color: var(--dark-gray);
 }
 
-.Developing .Developing-heading .heading-inverted {
+.Developing.Developing-heading .heading-inverted {
     color: var(--primary-color);
 }
